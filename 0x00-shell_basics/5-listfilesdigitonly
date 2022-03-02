@@ -1,4 +1,2 @@
-#!bin/bash
+#!/bin/bash
 ls -la
-chmod u+x 5-listfilesdigitonly
-git add .
